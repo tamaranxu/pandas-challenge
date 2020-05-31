@@ -1,0 +1,5 @@
+Final Considerations for Pandas Homework (PyCitySchools)
+
+Two Observable Trends (based on the data)
+1. The more money that is spent per student, the lower the rate of % overall passing reading and math, in general.
+2. The charter schools have much higher performance on % overall passing than the district schools.
